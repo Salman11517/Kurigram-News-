@@ -1,0 +1,6 @@
+{
+  "name": "কুড়িগ্রাম নিউজ",
+  "description": "কুড়িগ্রাম ও বাংলাদেশের সর্বশেষ খবর, রাজনীতি, খেলাধুলা, অর্থনীতি, বিনোদন ও আন্তর্জাতিক সংবাদ নিয়ে প্রিমিয়াম বাংলা অনলাইন নিউজ পোর্টাল।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
